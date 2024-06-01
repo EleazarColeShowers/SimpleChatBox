@@ -50,6 +50,7 @@ fun MessageItem(message: Message) {
             Text(
                 text = message.text,
                 style = MaterialTheme.typography.bodyMedium,
+                color = Color.White
             )
         }
     }
