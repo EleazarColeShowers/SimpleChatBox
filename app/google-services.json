@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231865595311",
+    "project_id": "chat-box-first-trial",
+    "storage_bucket": "chat-box-first-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231865595311:android:1ea8194a6d0096f2be2b5a",
+        "android_client_info": {
+          "package_name": "com.example.chatboxfirsttrial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCan_zBvR88t8u1_BwzF9JABJ25F6mJEU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
